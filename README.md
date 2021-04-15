@@ -3,6 +3,21 @@ Curso Udemy sobre Desenvolvimento Web Completo focado em JS, <a target="_blank" 
 
 Cada Arquivo possúi uma numeração de acordo com a ordem em que foram feitos no curso, para facilitar a consulta.
 
+## Dados do curso (15/04/2021):
+- Nível de experiência: Todos os níveis
+- Alunos: 92031
+- Idiomas: Português
+- Legendas: Sim
+- Aulas: 614
+- Vídeo: 89,5 horas no total
+
+## Instrutor Leonardo Moura Leitao
+    Leonardo Leitão é graduado em Engenharia Elétrica pela Universidade Federal do Ceará e Mestre em Informática Aplicada pela Universidade de Fortaleza, na qual trabalhou com Integração de Redes de Sensores sem Fio e Computação em Nuvem.
+
+    Instrutor premiado internacionalmente e tem umas das melhores avaliações entre os instrutores da Udemy.
+
+    Há quinze anos atua na área como desenvolvedor de softwares e trabalhou na DATAPREV como arquiteto, desenvolvendo sistemas para o INSS. Professor de desenvolvimento de software há mais de doze anos, criou a Cod3r Ensino que já treinou mais de 150.000 alunos.
+
 ## Conteúdo do curso:
 - [x] Horas: 00:34 | Introdução
 - [x] Horas: 00:14 | Configuração do Ambiente
