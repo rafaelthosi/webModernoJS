@@ -7,9 +7,11 @@ Cada Arquivo possúi uma numeração de acordo com a ordem em que foram feitos n
     Escola Cod3r
 </h1>
 
-<h1 align="center">
-    <img alt="Cod3r" src="https://github.com/rafaelthosi/webModernoJS/blob/master/logo-cod3r.png" />
-</h1>
+<a href="https://www.cod3r.com.br/">
+    <h1 align="center">
+        <img alt="Cod3r" src="https://github.com/rafaelthosi/webModernoJS/blob/master/logo-cod3r.png" />
+    </h1>
+</a>
 
 ## Dados do curso (15/04/2021):
 - Nível de experiência: Todos os níveis
