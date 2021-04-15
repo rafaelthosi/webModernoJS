@@ -1,5 +1,5 @@
 # Curso Web Moderno Completo com JavaScript 2020 + Projetos
-Curso Udemy sobre Desenvolvimento Web Completo focado em JS, <a target="_blank" href="https://www.udemy.com/course/curso-web/" >clique aqui</a> para ver o curso na plataforma.
+Curso Udemy sobre Desenvolvimento Web Completo focado em JS, <a href="https://www.udemy.com/course/curso-web/" target="_blank">clique aqui</a> para ver o curso na plataforma.
 
 Cada Arquivo possúi uma numeração de acordo com a ordem em que foram feitos no curso, para facilitar a consulta.
 
@@ -8,7 +8,7 @@ Cada Arquivo possúi uma numeração de acordo com a ordem em que foram feitos n
 </h1>
 
 <h1 align="center">
-    <a href="https://www.cod3r.com.br/">
+    <a href="https://www.cod3r.com.br/" target=”_blank”>
         <img alt="Cod3r" src="https://github.com/rafaelthosi/webModernoJS/blob/master/logo-cod3r.png" />
     </a>
 </h1>
