@@ -34,7 +34,7 @@ Há quinze anos atua na área como desenvolvedor de softwares e trabalhou na DAT
 - [x] Horas: 00:14 | Configuração do Ambiente
 - [x] Horas: 06:16 | Javascript: Fundamentos 
 - [x] Horas: 01:27 | Javascript: Estrutura de Controle 
-- [ ] Horas: 03:02 | Javascript: Função 
+- [x] Horas: 03:02 | Javascript: Função 
 - [ ] Horas: 03:04 | Javascript: Objeto 
 - [ ] Horas: 02:37 | Javascript: Array 
 - [ ] Horas: 00:01 | Lista de Exercícios de Javascript 
