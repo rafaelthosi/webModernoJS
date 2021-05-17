@@ -8,12 +8,12 @@ console.log('06.', 5 > 4)
 console.log('07.', 5 <= 4)
 console.log('08.', 5 >= 4)
 
-const d1 = new date(0) //date(0) pega a data padrão da linguagem, que é 01/01/1970. d1 recebe um valor como referencia, ou seja, está apontando um espaço na memoria, o que ele está recebendo é um endereço
-const d2 = new date(0)
+const d1 = new Date(0) //date(0) pega a data padrão da linguagem, que é 01/01/1970. d1 recebe um valor como referencia, ou seja, está apontando um espaço na memoria, o que ele está recebendo é um endereço
+const d2 = new Date(0)
 
 console.log('09.', d1 === d2) //como as duas contem endereços diferentes, da false
 console.log('10.', d1 == d2) //aqui também da false, pelo mesmo motivo, são coisas diferentes
-console.log('11.', d1.getTime() === d2.getTime()) //nesse caso estamos comparando as duas datas(a func getTime pega a data)
+console.log('11.', d1.getTime()) //nesse caso estamos comparando as duas datas(a func getTime pega a data)
 console.log('12', d1.getTime() == d2.getTime())
 
 console.log('13', undefined == null)
