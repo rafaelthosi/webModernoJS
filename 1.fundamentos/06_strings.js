@@ -12,4 +12,4 @@ console.log(escola.replace('r', '#')) // substitui o caracter por #
 console.log('Escola '.concat(escola).concat('!')) // concatena uma string com a variavel escola e depois com outra string
 console.log('Escola ' + escola + '!') // faz a mesma coisa que o anterior
 
-console.log('Larissa,Rafael,Luna,Donald,Serena'.split(',')) // passa a string para um array(vetor) separando cada elemento por virgula([0] = 'Larissa', [1] = 'Rafael'... [4] = 'Serena') neoqeav
+console.log('Larissa,Rafael,Luna,Donald,Serena'.split(',')) // passa a string para um array(vetor) separando cada elemento por virgula([0] = 'Larissa', [1] = 'Rafael'... [4] = 'Serena')
